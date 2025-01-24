@@ -22,35 +22,7 @@ A Python-based ATM (Automated Teller Machine) simulation that mimics the core fu
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/atm-python.git
-How to Use
-Run the script in a terminal or Python IDE.
-Enter your account number and PIN to log in.
-Choose from the available options:
-Check Balance
-Withdraw Funds
-Deposit Funds
-Exit
-Follow the on-screen instructions to perform your desired operations.
-Example Usage
-plaintext
-Copy
-Edit
-Welcome to the ATM System!
-Enter your account number: 12345678
-Enter your PIN: *****
 
-1. Check Balance
-2. Withdraw Funds
-3. Deposit Funds
-4. Exit
-
-Select an option: 1
-Your current balance is $500.
-Future Enhancements (Optional)
-Multiple Accounts: Support for multiple users with individual balances.
-Database Integration: Replace file handling with a database for better scalability.
-GUI: Add a graphical user interface for an improved user experience.
-Encryption: Encrypt user data for added security.
 License
 This project is open-source and available under the MIT License.
 
